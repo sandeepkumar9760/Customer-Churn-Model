@@ -67,7 +67,7 @@ jupyter notebook notebooks/01_eda.ipynb
 jupyter notebook notebooks/02_model.ipynb
 ```
 
-### 4. Start Streamlit server
+### 4. Start FastApi server
 ```bash
 uvicorn api.main:app --reload
 ```
